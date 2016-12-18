@@ -1,6 +1,6 @@
 {
   "name": "s3-upload-dir",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Upload Directory on S3",
   "main": "index.js",
   "scripts": {
