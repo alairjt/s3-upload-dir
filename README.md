@@ -3,7 +3,7 @@ Upload Directory to AWS S3
 
 ### Install
 
-```javascript
+```ssh
 npm install s3-upload-dir --save
 ```
 
