@@ -1,7 +1,7 @@
 {
   "name": "s3-upload-dir",
   "version": "0.1.1",
-  "description": "Upload Directory on S3",
+  "description": "Upload Directory to S3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +17,7 @@
     "angular",
     "directory"
   ],
-  "author": "Alair J. Tavares]",
+  "author": "Alair J. Tavares",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/alairjt/s3-upload-dir/issues"
