@@ -9,6 +9,12 @@ npm install s3-upload-dir --save
 
 ### How To Use
 
+* Define AWS Environment Variables
+
+- AWS_ACCESS_KEY_ID: User Access Key
+- AWS_SECRET_ACCESS_KEY: Public Access Key
+
+
 ```javascript
 var s3 = require('s3-upload-dir');
 
