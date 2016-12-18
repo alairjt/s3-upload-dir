@@ -1,0 +1,30 @@
+{
+  "name": "s3-upload-dir",
+  "version": "0.1.0",
+  "description": "Upload Directory on S3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alairjt/s3-upload-dir.git"
+  },
+  "keywords": [
+    "s3",
+    "upload",
+    "deploy",
+    "angular",
+    "directory"
+  ],
+  "author": "Alair J. Tavares]",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alairjt/s3-upload-dir/issues"
+  },
+  "homepage": "https://github.com/alairjt/s3-upload-dir#readme",
+  "dependencies": {
+    "aws-sdk": "^2.7.15",
+    "s3": "^4.4.0"
+  }
+}
